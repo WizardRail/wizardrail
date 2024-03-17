@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Stealit
 - 🌱 I’m currently learning Javascript
-- 📫 You Can Reach Me On Instagram:![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram)) wizard.rail
+- 📫 You Can Reach Me On Instagram :  ![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))  wizard.rail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
