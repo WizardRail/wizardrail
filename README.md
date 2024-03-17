@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hxeercyqhif7dv6odjqxpwiqbi)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
 ![Wizard Rail's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizardRail&show_icons=true&theme=radical)
 <!--
 **WizardRail/wizardrail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
