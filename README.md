@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hxeercyqhif7dv6odjqxpwiqbi&count=1)
 ![Wizard Rail's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizardRail&show_icons=true&theme=radical)
 <!--
