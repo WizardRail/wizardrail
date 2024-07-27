@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WizardRail</h1>
 <h3 align="center">A Great Back-End Developer From Turkey</h3>
 
-- 🔭 I’m currently working on [Stealit](https://t.me/stealitpublic)
+- 🔭 I’m currently working on TotalView (#ComingSoon)
 
 - 🌱 I’m currently learning **Javascript**
 
